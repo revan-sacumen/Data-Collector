@@ -1,0 +1,20 @@
+2022-09-29 14:28:58,842 - collectors_and_sender - INFO - creating an instance of data_prvoviders
+2022-09-29 14:28:58,842 - collectors_and_sender.data.SendData - INFO - creating instance of SendData...
+2022-09-29 14:28:58,843 - collectors_and_sender - INFO - created an instance of data_prvoviders
+2022-09-29 14:28:58,843 - collectors_and_sender - INFO - data sending
+2022-09-29 14:28:58,843 - collectors_and_sender.data.SendData - INFO - Preparing to data send
+2022-09-29 14:28:58,861 - collectors_and_sender - INFO - data sent successfully
+2022-09-29 14:28:58,861 - collectors_and_sender - INFO - creating reciver data instance
+2022-09-29 14:28:58,861 - collectors_and_sender.CreatePost - INFO - post creation objects created
+2022-09-29 14:28:58,861 - collectors_and_sender - INFO - created reciver data object instance
+2022-09-29 14:28:58,861 - collectors_and_sender - INFO - module ready to receiveing data coming from different modules
+2022-09-29 14:28:58,861 - collectors_and_sender.CreatePost - INFO - Data reciving...
+2022-09-29 14:28:58,861 - collectors_and_sender.data.SendData - INFO - creating instance of SendData...
+2022-09-29 14:28:58,861 - collectors_and_sender.data.SendData - INFO - Preparing to data send
+2022-09-29 14:28:59,568 - collectors_and_sender - INFO - Data received successfully
+2022-09-29 14:28:59,568 - collectors_and_sender - INFO - geting recently posted data
+2022-09-29 14:28:59,568 - collectors_and_sender.CreatePost - INFO - loading data into file
+2022-09-29 14:28:59,748 - collectors_and_sender - INFO - geted data
+2022-09-29 14:28:59,748 - collectors_and_sender - INFO - Sending prodcer source
+2022-09-29 14:28:59,748 - collectors_and_sender - INFO - Producer sending 
+2022-09-29 14:28:59,748 - collectors_and_sender - INFO - Data producing
