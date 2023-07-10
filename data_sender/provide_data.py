@@ -1,6 +1,7 @@
-import names
+import logging
 import random
-import  logging
+
+import names
 
 module_logger = logging.getLogger("collectors_and_sender.data")
 class SendData:

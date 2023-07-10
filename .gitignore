@@ -1,0 +1,7 @@
+.pytest_cache
+.env
+.json
+.coverage
+__pycache__
+test/.coverage
+test/
